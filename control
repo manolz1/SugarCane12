@@ -1,0 +1,9 @@
+Package: com.manolz.sugarcane
+Name: SugarCane12
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Get percentages for the sliders in the Control Center on iOS 12
+Maintainer: manolz
+Author: manolz
+Section: Tweaks
